@@ -36,7 +36,7 @@ export default function Home() {
         </div>
         <div>
           <span className="italic">
-            This tool generates snimation scene using Dall-e-2!
+            This tool generates animation scene using Dall-e-2!
           </span>
         </div>
       </div>
